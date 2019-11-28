@@ -1,0 +1,9 @@
+com\inventory\controller\ItemController.class
+com\inventory\dao\ItemDao.class
+com\inventory\service\ItemService.class
+com\inventory\controller\HomeController.class
+com\inventory\dao\ItemDaoImpl.class
+com\inventory\config\WebMvcConfig.class
+com\inventory\service\ItemServiceImpl.class
+com\inventory\model\Item.class
+com\inventory\config\AppInitializer.class

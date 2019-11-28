@@ -1,7 +1,9 @@
 <html>
-<head><title>Spring 5 Web MVC Example</title></head>
+<head><title>Inventory Store</title></head>
 <body>
-<h1>HowToDoInJava.com</h1>
-<h2>Spring 5 Web MVC DispatcherServlet Example</h2>
+
+<h2>Inventory Menu</h2>
+<br><button onclick="window.location.href = '/itemregistrationform';">Register Item</button>
+<br><button onclick="window.location.href = '/items';">List All Items</button>
 </body>
 </html>
